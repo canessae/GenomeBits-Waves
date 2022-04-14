@@ -1,0 +1,35 @@
+
+
+Genome sequence (A) n=1   REAL PART
+---------------
+
+
+Input File     : '3-WAVs/Original-Audio_from_DataFunction.wav'
+Channels       : 1
+Sample Rate    : 4096
+Precision      : 16-bit
+Duration       : 00:02:46.28 = 681097 samples ~ 12471.3 CDDA sectors
+File Size      : 1.36M
+Bit Rate       : 65.5k
+Sample Encoding: 16-bit Signed Integer PCM
+
+
+Input File     : '3-WAVs/SHIFTED-Audio_VOL2_from_DataFunction.wav'
+Channels       : 1
+Sample Rate    : 4096
+Precision      : 16-bit
+Duration       : 00:02:46.28 = 681097 samples ~ 12471.3 CDDA sectors
+File Size      : 1.36M
+Bit Rate       : 65.5k
+Sample Encoding: 16-bit Signed Integer PCM
+
+input_values = GAUSSIAN-1-1-AA-sums01-diff-1_OUT.dat
+duration = 166.283935546875
+npi16 = 32767
+dx = 0.01
+deltat = 
+k2Max = 1
+sample_rate = 4096
+fshift = 400
+lim_ymin = 0
+lim_ymax = 2048
