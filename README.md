@@ -6,6 +6,8 @@ By transforming the occurrence of nucleotides of the same type along the genome 
 
 An anologous time-frequency representation of the strand of genome data, showing homogeneous peak signals over time, is shown in the figure in the form of spectrogram. Each data point in the audio curves has been fitted to a gaussian function to correlate a continuous audio spectrum in the analysis of our waveform reconstruction.
 
-"Wave-like behavior in (0,1) binary sequences" (paper April 2022)
+"Wave-like behavior in (0,1) binary sequences" 
+https://arxiv.org/abs/2204.10289
+(paper April 2022)
 E. Canessa
 
